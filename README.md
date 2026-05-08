@@ -205,10 +205,17 @@ La arquitectura implementada estuvo conformada por tres contenedores principales
                          │
                   Volumen db-data
 ```
+<img width="1408" height="768" alt="diagrame" src="https://github.com/user-attachments/assets/9abf19de-59ac-40e7-9fc6-1d74c411ad40" />
 
 ---
 
-# 10. Resultados Esperados (Capturas de Pantalla)
+# 10. Resultados Esperados
+<img width="589" height="69" alt="contenedores" src="https://github.com/user-attachments/assets/e1080f1d-7f4c-4210-a403-f074a61d84f1" />
+<img width="589" height="482" alt="18" src="https://github.com/user-attachments/assets/91a2cc31-c95d-4442-b316-ed52656eec45" />
+<img width="523" height="372" alt="19" src="https://github.com/user-attachments/assets/a44d5dfd-9a86-4d99-924d-420d09a5a8a4" />
+<img width="585" height="423" alt="20" src="https://github.com/user-attachments/assets/a34f6eb7-f021-4b5a-a20a-504989f51969" />
+<img width="589" height="312" alt="222222" src="https://github.com/user-attachments/assets/65da7b41-91fd-4a4c-890f-a33384b7f4a4" />
+
 
 ## A. Creación y Estado de Contenedores
 
